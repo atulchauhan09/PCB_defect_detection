@@ -445,7 +445,8 @@ This indicates:
 🎓 MSc Data Science | New York Institute of Technology
 🎓 BEng Electrical & Electronics Engineering | University of Southampton
 
-📧 Email: fardintonu@gmail.com  
+📧 Email: fardintonu@gmail.com
+
 🔗 LinkedIn:www.linkedin.com/in/fardin-hossain-tanmoy
 
 📂 GitHub: https://github.com/fardinhossain007
