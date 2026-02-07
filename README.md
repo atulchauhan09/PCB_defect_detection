@@ -441,15 +441,15 @@ This indicates:
 
 ## 📧 Contact
 
-**Fardin Hossain Tanmoy**  
-🎓 MSc Data Science | New York Institute of Technology
-🎓 BEng Electrical & Electronics Engineering | University of Southampton
+**Atul Chauhan**  
 
-📧 Email: fardintonu@gmail.com
+🎓 B.Tech Computer Science and Engineering | UIET, Kanpur
 
-🔗 LinkedIn:www.linkedin.com/in/fardin-hossain-tanmoy
+📧 Email: atulchauhanm22@gmail.com
 
-📂 GitHub: https://github.com/fardinhossain007
+🔗 LinkedIn:https://www.linkedin.com/in/atul-chauhan-0b9494344/
+
+📂 GitHub: https://github.com/atulchauhan09
 
 ---
 
